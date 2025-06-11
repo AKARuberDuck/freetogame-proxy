@@ -4,3 +4,4 @@
     { "src": "/api/games", "dest": "/api/games.js" }
   ]
 }
+  

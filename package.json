@@ -2,9 +2,11 @@
   "name": "freetogame-proxy",
   "type": "module",
   "scripts": {
-    "start": "node api/games.js"
+    "start": "node index.js"
   },
   "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
     "node-fetch": "^3.3.2"
   }
 }
